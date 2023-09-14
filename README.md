@@ -2,6 +2,6 @@
 
 Mokomes
 
-## Todays lesson
+## Todays lesson of Git and Github
 
 1. in progress 😄
